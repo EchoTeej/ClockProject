@@ -1,4 +1,7 @@
 # ClockProject
 
-Using Javascript to make a digital clock
-Background image changes as the day goes on.
+<ul>
+<li>Using Javascript to make a digital clock</li>
+<li>Background image changes as the day goes on.</li>
+</ul>
+
